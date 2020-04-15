@@ -24,7 +24,7 @@ MongoClient.connect(mongoUrl, (err, client) => {
 // page to either login or to request food basket
 
 app.get('/', function(req, res){
-    res.send("Hadya API");
+    res.send("Hadya API ");
 });
 
 
