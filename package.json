@@ -1,0 +1,26 @@
+{
+  "name": "hadya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.2",
+    "mongodb": "^3.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenonzx/sms_verifcation_service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xenonzx/sms_verifcation_service/issues"
+  },
+  "homepage": "https://github.com/xenonzx/sms_verifcation_service#readme"
+}
